@@ -1,17 +1,11 @@
-h2.intro {
-color: darkblue;
-font-size: 67px;
-}
-
-p.intro {
-font-size: 15px;
-}
-
-img.intro {
+.intro {
+  color: darkblue;
+  font-size: 67px;
   border: dotted black;
-  background: yellow;
 }
-
+p {
+  font-size: 15px;
+}
 body {
   background: lightgrey;
 }
